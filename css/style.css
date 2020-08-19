@@ -153,6 +153,9 @@ header {
     border: 2px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 6px;
+    background-color: #010001;
+    font-size: inherit;
+    cursor: pointer;
 }
 
 @media (max-width:960px) {
